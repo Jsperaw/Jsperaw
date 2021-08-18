@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jsperaw
-- 👀 I’m interested in ... Space, Technology and very much more
-- 🌱 I’m currently learning ... unity, VS/C#
-- 💞️ I’m looking to collaborate on ... unity and developing a product (got many ideas)
-- 📫 How to reach me ... 02floors_prisms@icloud.com
+- 👀 I’m interested in ... Space, Technology, Sports and very much more
+- 🌱 I’m currently learning ... unity, VS/C# try to learn C++
+- 💞️ I’m looking to collaborate on ... unity and developing a speciffic product
+- 📫 How to reach me ... 02floors_prisms@icloud.com @Jsper on twitter
 
 <!---
 Jsperaw/Jsperaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
